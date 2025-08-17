@@ -29,7 +29,7 @@ A **Retrieval-Augmented Generation (RAG) powered Conversational Chatbot** that a
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/SHUBHAM01S2/Rag-Conversational-Chatbot.git
 cd your-repo
 ````
 
